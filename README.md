@@ -16,9 +16,9 @@ Load the database using psql -d news -f newsdata.sql.
 
 Connect to the database using psql -d news.
 
-Create the Views given below. Then exit psql.
+Create the Views given below.
 
-Now execute the Python file - python logs_analysis.py.
+Execute the Python file - python loganalysis.py.
 
 # CREATE THE FOLLOWING VIEWS FOR QUESTION 3:
 
